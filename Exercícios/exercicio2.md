@@ -40,3 +40,10 @@ lista de comprar em markdown
         </tr>
     <tbody>
 </table>
+
+<em> Escolha a forma de pagamento </em>
+<ul>
+<em> cartao de debito </em>
+
+<em> cartao alimentação </em>
+</ul>
