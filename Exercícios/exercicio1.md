@@ -1,1 +1,1 @@
-<blockquote>"A única forma de fazer um grande trabalho é amar o que você faz." - <b>Steve Jobs</b></blockquote>
+<blockquote>"A vida é como andar de bicicleta. Para ter equilíbrio, você tem que se manter em movimento." - <b>Albert Einstein. </b></blockquote>

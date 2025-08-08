@@ -1,4 +1,13 @@
-<p> lista de compra</p>
+lista de comprar em markdown
+|salgados |doce|
+|---|---|
+|macarrao|barra de chocolate |
+|feijoada|sorvete|
+|frango|bala |
+|salgadinho|chocolate |
+
+
+<p> lista de compra em html</p>
 <table>
     <thead>
         <tr>
